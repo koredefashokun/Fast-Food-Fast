@@ -1,6 +1,10 @@
 .history-container {
   width: 80%;
+  height: 80%;
   overflow-y: scroll;
+}
+.order-manager-table {
+  height: auto;
 }
 .history-container .history-item {
   width: 100%;
