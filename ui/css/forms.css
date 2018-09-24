@@ -53,3 +53,6 @@
   font-size: 16px;
   font-family: Dosis-Regular;
 }
+a {
+  text-decoration: none;
+}
