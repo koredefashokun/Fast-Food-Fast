@@ -27,6 +27,9 @@
   font-size: 16px;
   text-decoration: none;
 }
+.form-container a {
+  width: 100%;
+}
 .form-container a .form-button {
   color: #FFFFFF;
   width: 100%;
